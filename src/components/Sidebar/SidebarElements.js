@@ -27,7 +27,7 @@ export const Icon = styled.div`
   position: absolute;
   top: 1.2rem;
   right: 1.5rem;
-  background: transparant;
+  background: transparent;
   font-size: 2rem;
   cursor: pointer;
   outline: none;
@@ -57,11 +57,11 @@ export const SidebarLink = styled(LinkS)`
   list-style: none;
   transition: 0.2s ease-in-out;
   text-decoration: none;
-  clor: #fff;
+  color: #fff;
   cursor: pointer;
 
   &:hover {
-    color: 0.2s ease-in-out;
+    color: #01bf71;
     transition: 0.2s ease-in-out;
   }
 `;
